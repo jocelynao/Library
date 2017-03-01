@@ -1,26 +1,10 @@
-'''
-Jocelyn Ao
-jao1@binghamton.edu
-Lab Section B57 Jia Yang
-Lab Assignment 12
-'''
+
 
 from tkinter import *
 from libraryStudentVersion import *
 from patronStudentVersion import *
 from bookStudentVersion import *
 from modelClassFile import *
-
-'''
-This class is a GUI interface that sets up a screen and displays the various
-buttons and entry boxes needed for a person to interact with the program. This
-program checks if the person put in something in the entry boxes and depending
-on the particular entry box, it will perform a certain action contained in
-the the three different classes that is imported. This class makes use of
-the Library, Book, and Patron class. This class can add a book, remove a book,
-add a patron, remove a patron, check the status of a patron and book, checkout
-a book, and return a book.
-'''
 
 class libraryStuff:
 
