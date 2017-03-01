@@ -1,13 +1,4 @@
-'''
-Jocelyn Ao
-jao1@binghamton.edu
-Lab Section B57 Jia Yang
-Lab Assignment 11 Exercise Patron
-'''
-'''
-This class represents a patron
-A Patron has a name, a status and zero or more books checked out
-'''
+
 
 
 class Patron:
