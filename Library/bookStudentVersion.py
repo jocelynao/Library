@@ -1,15 +1,4 @@
-'''
-Jocelyn Ao
-jao1@binghamton.edu
-Lab Section B57 Jia Yang
-Assignment 11 Exercise Book
-'''
 
-'''
-This class represents a book with a title, author, status,
-a patron to whom the book is checked out, and a list
-of patrons waiting for it
-'''
 class Book:
   # Class Variables ----------------------------------------------------------
   # index when book is first created (int)
