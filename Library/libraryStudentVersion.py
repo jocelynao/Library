@@ -1,20 +1,8 @@
-'''
-Jocelyn Ao
-jao1@binghamton.edu
-Lab Section B57 Jia Yang
-Lab Assignment 11 Exercise Library
-'''
+
 
 from libraryModule import StringGeneratorForDictionaries
 
-'''
-This class represents a named library with books and patrons.
-A library can add and remove Patrons, add and remove Books,
-access information about its Patrons and Books, and keep track of
-any transactions taking place with repect to it's Books and Patrons.
-This class makes use of the StringGeneratorForDictionaries class found
-in the libraryModule file.
-'''
+
 class Library:
 
 #-- Class Variables ----------------------------------------------------
